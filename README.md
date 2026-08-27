@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -34,6 +36,8 @@
   <img src="https://img.shields.io/badge/Pruebas_de_API-0B1F3A?style=flat-square&labelColor=1B9E91&color=0B1F3A" />
   <img src="https://img.shields.io/badge/Testing_Cross--Browser-0B1F3A?style=flat-square&labelColor=1B9E91&color=0B1F3A" />
   <img src="https://img.shields.io/badge/Testing_Móvil-0B1F3A?style=flat-square&labelColor=1B9E91&color=0B1F3A" />
+  <img src="https://img.shields.io/badge/Automatización_E2E-0B1F3A?style=flat-square&labelColor=1B9E91&color=0B1F3A" />
+  <img src="https://img.shields.io/badge/Page_Object_Model-0B1F3A?style=flat-square&labelColor=1B9E91&color=0B1F3A" />
   <img src="https://img.shields.io/badge/Mapas_Mentales-0B1F3A?style=flat-square&labelColor=1B9E91&color=0B1F3A" />
   <img src="https://img.shields.io/badge/Diagramas_de_Flujo-0B1F3A?style=flat-square&labelColor=1B9E91&color=0B1F3A" />
 </p>
@@ -47,6 +51,7 @@
 | [urban-routes-qa](https://github.com/deicyhernandez-qa/urban-routes-qa) | QA Web · Cross-browser | 218 | 23 | Jira · DevTools · draw.io |
 | [urban-grocery-qa](https://github.com/deicyhernandez-qa/urban-grocery-qa) | Pruebas de API REST | 41 | 19 | Postman · Jira · Excel |
 | [urban-lunch-qa](https://github.com/deicyhernandez-qa/urban-lunch-qa) | Testing Móvil Android | 52 | 7 | Android Studio · Jira · Excel |
+| [urban-routes-automation](https://github.com/deicyhernandez-qa/urban-routes-automation) | Automatización E2E | 8 tests | — | Python · Selenium · pytest · POM |
 
 ---
 
