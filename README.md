@@ -52,6 +52,7 @@
 | [urban-grocery-qa](https://github.com/deicyhernandez-qa/urban-grocery-qa) | Pruebas de API REST | 41 | 19 | Postman · Jira · Excel |
 | [urban-lunch-qa](https://github.com/deicyhernandez-qa/urban-lunch-qa) | Testing Móvil Android | 52 | 7 | Android Studio · Jira · Excel |
 | [urban-routes-automation](https://github.com/deicyhernandez-qa/urban-routes-automation) | Automatización E2E | 8 tests | — | Python · Selenium · pytest · POM |
+| [urban-scooter-qa](https://github.com/deicyhernandez-qa/urban-scooter-qa) | Proyecto Final · Web + Móvil + API | 75+ | 23 | Postman · Jira · SQL · Android · draw.io |
 
 ---
 
