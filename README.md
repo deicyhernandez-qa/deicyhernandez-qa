@@ -46,14 +46,15 @@
 |---|---|---|---|---|
 | [urban-routes-qa](https://github.com/deicyhernandez-qa/urban-routes-qa) | QA Web · Cross-browser | 218 | 23 | Jira · DevTools · draw.io |
 | [urban-grocery-qa](https://github.com/deicyhernandez-qa/urban-grocery-qa) | Pruebas de API REST | 41 | 19 | Postman · Jira · Excel |
+| [urban-lunch-qa](https://github.com/deicyhernandez-qa/urban-lunch-qa) | Testing Móvil Android | 52 | 7 | Android Studio · Jira · Excel |
 
 ---
 
 ## 📊 Mis stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deicyhernandez-qa&show_icons=true&theme=dark&hide_border=true&title_color=3FD6C8&icon_color=3FD6C8&text_color=FFFFFF&bg_color=0B1F3A" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deicyhernandez-qa&layout=compact&theme=dark&hide_border=true&title_color=3FD6C8&text_color=FFFFFF&bg_color=0B1F3A" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deicyhernandez-qa&show_icons=true&theme=dark&hide_border=true&title_color=3FD6C8&icon_color=3FD6C8&text_color=FFFFFF&bg_color=0B1F3A&cache_seconds=1800" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deicyhernandez-qa&layout=compact&theme=dark&hide_border=true&title_color=3FD6C8&text_color=FFFFFF&bg_color=0B1F3A&cache_seconds=1800" height="160" />
 </p>
 
 ---
